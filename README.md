@@ -61,7 +61,7 @@ Passionate about mastering **Java**, **full-stack development**, and **DevOps** 
 
 <br clear="left"/>
 
-> `TODO` — you mentioned 7 repositories total; GitHub blocks automated access to your repo list, so only this pinned one could be verified. Send me the other project names + one-line descriptions (+ links) and I'll add a full showcase grid here.
+
 
 ---
 
@@ -98,7 +98,6 @@ When I'm not coding, you'll find me:
 - ⛺ Camping
 - 🎤 Singing
 
-> `TODO` — you asked for "many interests" added. Give me the rest and I'll fold them in here.
 
 ---
 
