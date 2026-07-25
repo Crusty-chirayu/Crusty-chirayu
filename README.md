@@ -2,9 +2,19 @@
 
 # Hi, I'm Chirayu Babu Jaysawal 👋
 
-### Computer Engineering student · Nepal 🇳🇵 → exploring Bangalore's tech scene 🇮🇳
+**Computer Engineering student · Java Developer in training · Outdoor Enthusiast**
+Passionate about mastering **Java**, **full-stack development**, and **DevOps** 🚀
 
-I sit at the intersection of **hardware** and **software**, and I'm on a mission to become an innovative **Java** developer. 🚀
+📍 Bangalore, India &nbsp;·&nbsp; 🎯 Focusing
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-lac-kappa-49.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chirayu-babu-jaysawal-916a6a2a2/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chirayujayaswal7@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/crusty__chirayu/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/chirayu.jaysawal)
+[![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.net/@crusty__chirayu)
 
 </div>
 
@@ -14,35 +24,56 @@ I sit at the intersection of **hardware** and **software**, and I'm on a mission
 
 | | |
 |---|---|
-| ☕ **Java** | Beginner |
-| 💻 **Full Stack Development** | Learning core concepts |
+| ☕ **Java** | Core language, actively building projects with it |
+| 💻 **Full Stack Development** | Learning core concepts end to end |
+| ⚙️ **DevOps** | Exploring fundamentals |
 
-### 💼 Projects I'm Excited About
-
-- 🌐 **Full Stack Development** projects
-- 🔧 **Hardware Engineering** concepts
-
-### 🛠️ Skills & Interests
-
-**Programming Languages**
+### 🛠️ Tech I Work With
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Swing](https://img.shields.io/badge/Java%20Swing-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-**Interests**
+> `TODO` — I could only confirm the stack behind your pinned repo (Java + MySQL + Swing). Tell me what else to add here — any other languages, frameworks, or tools you actually use (React, Spring, Git, Linux, etc.) — and I'll expand this row properly.
+
+### 🎯 Interests
 
 ![Full Stack](https://img.shields.io/badge/Full%20Stack%20Development-000000?style=for-the-badge)
+![DevOps](https://img.shields.io/badge/DevOps-2496ED?style=for-the-badge)
 ![OS Management](https://img.shields.io/badge/OS%20Management-4A90E2?style=for-the-badge)
 ![Computer Hardware](https://img.shields.io/badge/Computer%20Hardware-6E4AAA?style=for-the-badge)
 
 ---
 
-### 📫 Let's Connect!
+### 🚀 Featured Project
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-portfolio--lac--kappa--49.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-lac-kappa-49.vercel.app)
-[![Email](https://img.shields.io/badge/Email-chirayujayaswal7%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chirayujayaswal7@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Chirayu%20Jaysawal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chirayu-jayaswal-916a6a2a2)
+<a href="https://github.com/Crusty-chirayu/Hotel-Management-System">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Crusty-chirayu&repo=Hotel-Management-System&theme=default" alt="Hotel Management System" />
+</a>
 
-### 🎉 A Bit About Me
+**Hotel Management System** — a Java (Swing GUI) + MySQL desktop application. Features room booking, guest check-in/out, billing, staff management, and full database integration to streamline hotel operations.
+
+<br clear="left"/>
+
+> `TODO` — you mentioned 7 repositories total; GitHub blocks automated access to your repo list, so only this pinned one could be verified. Send me the other project names + one-line descriptions (+ links) and I'll add a full showcase grid here.
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+![Chirayu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Crusty-chirayu&show_icons=true&theme=default&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Crusty-chirayu&layout=compact&theme=default)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Crusty-chirayu&theme=default)
+
+</div>
+
+---
+
+### 🎉 Beyond the Code
 
 When I'm not coding, you'll find me:
 
@@ -51,7 +82,15 @@ When I'm not coding, you'll find me:
 - ⛺ Camping
 - 🎤 Singing
 
+> `TODO` — you asked for "many interests" added. Give me the rest and I'll fold them in here.
+
+---
+
+<div align="center">
+
 Feel free to reach out — let's build something amazing together! 🌟
+
+</div>
 
 <!---
 Crusty-chirayu/Crusty-chirayu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
