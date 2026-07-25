@@ -36,7 +36,7 @@ Passionate about mastering **Java**, **full-stack development**, and **DevOps** 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Swing](https://img.shields.io/badge/Java%20Swing-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-> `TODO` — I could only confirm the stack behind your pinned repo (Java + MySQL + Swing). Tell me what else to add here — any other languages, frameworks, or tools you actually use (React, Spring, Git, Linux, etc.) — and I'll expand this row properly.
+
 
 ### 🎯 Interests
 
@@ -69,13 +69,10 @@ Passionate about mastering **Java**, **full-stack development**, and **DevOps** 
 
 <div align="center">
 
-![Chirayu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Crusty-chirayu&show_icons=true&theme=default&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Crusty-chirayu&layout=compact&theme=default)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Crusty-chirayu&theme=default)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Crusty-chirayu&theme=flat&no-frame=true&row=1&column=6)
 
 </div>
 
