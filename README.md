@@ -2,10 +2,10 @@
 
 # Hi, I'm Chirayu Babu Jaysawal 👋
 
-**Computer Engineering student · Java Developer in training · Outdoor Enthusiast**
+**Computer Engineering student · Final Year · Java Developer in training · Outdoor Enthusiast**
 Passionate about mastering **Java**, **full-stack development**, and **DevOps** 🚀
 
-📍 Bangalore, India &nbsp;·&nbsp; 🎯 Focusing
+📍 Bangalore, India &nbsp;·&nbsp; 🎓 4th Year, Computer Engineering &nbsp;·&nbsp; 🎯 Focusing
 
 <br/>
 
@@ -15,6 +15,8 @@ Passionate about mastering **Java**, **full-stack development**, and **DevOps** 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/crusty__chirayu/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/chirayu.jaysawal)
 [![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.net/@crusty__chirayu)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Crusty-chirayu&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS)
 
 </div>
 
@@ -43,6 +45,10 @@ Passionate about mastering **Java**, **full-stack development**, and **DevOps** 
 ![OS Management](https://img.shields.io/badge/OS%20Management-4A90E2?style=for-the-badge)
 ![Computer Hardware](https://img.shields.io/badge/Computer%20Hardware-6E4AAA?style=for-the-badge)
 
+### 💬 Ask Me About
+
+`Java` · `Object-Oriented Design` · `MySQL` · `Full-Stack Basics` · `DevOps Fundamentals` · `Computer Hardware` · `OS Management`
+
 ---
 
 ### 🚀 Featured Project
@@ -69,7 +75,17 @@ Passionate about mastering **Java**, **full-stack development**, and **DevOps** 
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Crusty-chirayu&theme=default)
 
+![Trophies](https://github-profile-trophy.vercel.app/?username=Crusty-chirayu&theme=flat&no-frame=true&row=1&column=6)
+
 </div>
+
+---
+
+### 🎯 What I'm Working Toward
+
+- 💼 Landing my first full-time role or internship as a developer
+- 🧱 Shipping more full-stack projects beyond the classroom
+- 🐳 Getting hands-on with DevOps tooling (Docker, CI/CD, cloud basics)
 
 ---
 
