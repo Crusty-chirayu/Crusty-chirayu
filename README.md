@@ -93,7 +93,7 @@ When I'm not coding, you'll find me:
 - 🏞️ Trekking
 - 🚴‍♂️ Cycling
 - ⛺ Camping
-- 🎤 Singing
+- Exploring beyond the screen.
 
 
 ---
