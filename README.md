@@ -51,7 +51,7 @@ Passionate about mastering **Java**, **full-stack development**, and **DevOps** 
 
 ---
 
-### 🚀 Featured Project
+### 🚀 First Featured Project
 
 <a href="https://github.com/Crusty-chirayu/Hotel-Management-System">
 
@@ -61,7 +61,7 @@ Passionate about mastering **Java**, **full-stack development**, and **DevOps** 
 
 <br clear="left"/>
 
-
+ Feel free to: Check my other Projects and contributions to the community on my Repos.
 
 ---
 
