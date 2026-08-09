@@ -54,7 +54,7 @@ Passionate about mastering **Java**, **full-stack development**, and **DevOps** 
 ### 🚀 Featured Project
 
 <a href="https://github.com/Crusty-chirayu/Hotel-Management-System">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Crusty-chirayu&repo=Hotel-Management-System&theme=default" alt="Hotel Management System" />
+
 </a>
 
 **Hotel Management System** — a Java (Swing GUI) + MySQL desktop application. Features room booking, guest check-in/out, billing, staff management, and full database integration to streamline hotel operations.
