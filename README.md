@@ -1,12 +1,29 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0:6E4AAA,100:3178C6&height=220&section=header&text=Chirayu%20Babu%20Jaysawal&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%26%20Java%20Developer%20%7C%20Final%20Year%20CE&descAlignY=58&descSize=18" width="100%" alt="Header Banner">
+<h1>Chirayu Babu Jaysawal</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6E4AAA&center=true&vCenter=true&width=700&lines=Building+CartIQ+%E2%80%94+AI-Powered+E-Commerce;Java+%2B+MySQL+%2B+Swing+Developer;Building+ReForge+%E2%80%94+Project+Analysis+%26+Novelty;Learning+DevOps+Fundamentals;Trekker+%7C+Cyclist+%7C+Camper" alt="Typing SVG">
+<h3>Full-Stack & Java Developer | Final Year Computer Engineering</h3>
 
+<p>
+Building CartIQ — AI-Powered E-Commerce · Java + MySQL + Swing · ReForge — Project Analysis & Novelty · DevOps Fundamentals
+</p>
+
+<p>
 📍 Bangalore, India &nbsp;·&nbsp; 🎓 4th Year, Computer Engineering &nbsp;·&nbsp; 🎯 Full-Stack Development
+</p>
+
+<p>
+<a href="https://github.com/Crusty-chirayu">
+<img src="https://img.shields.io/badge/GitHub-Crusty--chirayu-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+<a href="https://www.linkedin.com/in/chirayu-babu-jaysawal-916a6a2a2/">
+<img src="https://img.shields.io/badge/LinkedIn-Chirayu%20Babu%20Jaysawal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+</p>
 
 </div>
+
+<br/>
 
 <br/>
 
