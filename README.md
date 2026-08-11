@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0:6E4AAA,100:3178C6&height=220&section=header&text=Chirayu%20Babu%20Jaysawal&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%26%20Java%20Developer%20%7C%20Final%20Year%20CE&descAlignY=58&descSize=18" width="100%" alt="Header Banner" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:6E4AAA,100:3178C6&height=220&section=header&text=Chirayu%20Babu%20Jaysawal&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%26%20Java%20Developer%20%7C%20Final%20Year%20CE&descAlignY=58&descSize=18" width="100%" alt="Header Banner">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6E4AAA&center=true&vCenter=true&width=700&lines=Building+CartIQ+%E2%80%94+AI-Powered+E-Commerce;Java+%2B+MySQL+%2B+Swing+Developer;Building+ReForge+%E2%80%94+Project+Analysis+%26+Novelty;Learning+DevOps+Fundamentals;Trekker+%7C+Cyclist+%7C+Camper" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6E4AAA&center=true&vCenter=true&width=700&lines=Building+CartIQ+%E2%80%94+AI-Powered+E-Commerce;Java+%2B+MySQL+%2B+Swing+Developer;Building+ReForge+%E2%80%94+Project+Analysis+%26+Novelty;Learning+DevOps+Fundamentals;Trekker+%7C+Cyclist+%7C+Camper" alt="Typing SVG">
 
-📍 Bangalore, India  ·  🎓 4th Year, Computer Engineering  ·  🎯 Full-Stack Development
+📍 Bangalore, India &nbsp;·&nbsp; 🎓 4th Year, Computer Engineering &nbsp;·&nbsp; 🎯 Full-Stack Development
 
 </div>
 
