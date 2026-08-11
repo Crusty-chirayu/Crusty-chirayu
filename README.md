@@ -157,13 +157,14 @@ Room booking, guest check-in/out, billing, and staff management with full databa
 ---
 
 ## 🎉 Beyond the Code
-
+<div align="center">
 <table>
 <tr>
 <td width="40%">
 <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="100%" alt="Outdoors" />
 </td>
 <td width="60%">
+</div>
 
 When I'm not coding, you'll find me:
 - 🏞️ Trekking
