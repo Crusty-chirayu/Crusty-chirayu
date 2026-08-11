@@ -144,9 +144,7 @@ Room booking, guest check-in/out, billing, and staff management with full databa
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Crusty-chirayu&theme=radical&hide_border=true" width="48%" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Crusty-chirayu&layout=compact&theme=radical&hide_border=true" width="50%" />
-</div>
+
 
 ---
 
