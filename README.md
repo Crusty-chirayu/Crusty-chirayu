@@ -1,12 +1,8 @@
 <div align="center">
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="600" alt="Hello Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6E4AAA,100:3178C6&height=220&section=header&text=Chirayu%20Babu%20Jaysawal&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%26%20Java%20Developer%20%7C%20Final%20Year%20CE&descAlignY=58&descSize=18" width="100%" alt="Header Banner" />
 
-<br/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6E4AAA&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Chirayu+Babu+Jaysawal;Computer+Engineering+%7C+Final+Year;Full-Stack+%2B+Java+Developer;Building+CartIQ+%E2%80%94+AI-Powered+E-Commerce" alt="Typing SVG" />
-
-**Computer Engineering Student · Final Year · Full-Stack & Java Developer · Outdoor Enthusiast**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6E4AAA&center=true&vCenter=true&width=600&lines=Building+CartIQ+%E2%80%94+AI-Powered+E-Commerce;Java+%2B+MySQL+%2B+Swing+Developer;Learning+DevOps+Fundamentals;Trekker+%7C+Cyclist+%7C+Camper" alt="Typing SVG" />
 
 📍 Bangalore, India &nbsp;·&nbsp; 🎓 4th Year, Computer Engineering &nbsp;·&nbsp; 🎯 Full-Stack Development
 
@@ -23,30 +19,19 @@
 
 </div>
 
----
+<br/>
 
 ## 🧠 About Me
-
-<table>
-<tr>
-<td width="60%">
 
 I'm a Computer Engineering student who enjoys working across the full stack — from relational database design to modern AI-integrated web apps. Right now I split my time between:
 
 - 🛒 Building **CartIQ**, an AI-powered e-commerce platform with a conversational shopping assistant
 - ☕ Deepening my grip on **Java, OOP design, and MySQL** through hands-on desktop applications
-- 🐳 Getting comfortable with **DevOps fundamentals** — Docker, CI/CD, cloud basics
+- ⚙️ Getting comfortable with **DevOps fundamentals** — CI/CD and cloud basics
 
 ⚡ **Goal**: Land my first full-time role / internship as a developer while shipping projects that go beyond the classroom.
 
-</td>
-<td width="40%">
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="100%" alt="Coding Vibe" />
-</td>
-</tr>
-</table>
-
----
+<br/>
 
 ## 🌱 Currently Learning
 
@@ -55,43 +40,27 @@ I'm a Computer Engineering student who enjoys working across the full stack — 
 | ☕ **Java** | Core language, actively building projects with it |
 | 🌐 **Full-Stack Development** | Next.js, TypeScript, Supabase, TailwindCSS |
 | 🤖 **AI Integration** | Building conversational features into real apps |
-| ⚙️ **DevOps** | Docker, CI/CD, cloud fundamentals |
+| ⚙️ **DevOps** | CI/CD and cloud fundamentals |
 
----
+<br/>
 
 ## 💾 Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=java,js,ts,py,mysql&theme=dark" />
 </p>
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,supabase,mongodb&theme=dark" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vercel&theme=dark" />
+</p>
+<p align="center">
   <img src="https://img.shields.io/badge/Java%20Swing-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</p>
-
----
+<br/>
 
 ## 🎯 Interests
 
@@ -106,7 +75,7 @@ I'm a Computer Engineering student who enjoys working across the full stack — 
 ### 💬 Ask Me About
 `Java` · `Object-Oriented Design` · `MySQL` · `Next.js / TypeScript` · `AI-integrated Web Apps` · `DevOps Fundamentals` · `Computer Hardware`
 
----
+<br/>
 
 ## 🚀 Featured Projects
 
@@ -139,37 +108,32 @@ Room booking, guest check-in/out, billing, and staff management with full databa
 
 <p align="center"><i>Check out my other repos and contributions below 👇</i></p>
 
----
+<br/>
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Crusty-chirayu&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Crusty-chirayu&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Crusty-chirayu&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=Crusty-chirayu&theme=radical&hide_border=true" width="48%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Crusty-chirayu&layout=compact&theme=radical&hide_border=true" width="50%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Crusty-chirayu&layout=compact&theme=radical&hide_border=true" width="50%" />
 </div>
 
----
+> If a card above shows "Loading" for more than a few seconds on first render, it's the shared free instance warming up or rate-limited — refresh in a minute. For a permanently reliable version, you can [deploy your own free copy on Vercel](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own) in about 5 minutes and swap the URL in.
+
+<br/>
 
 ## 🎯 What I'm Working Toward
 
 - 💼 Landing my first full-time role or internship as a developer
 - 🧱 Shipping more full-stack + AI-integrated projects beyond the classroom
-- 🐳 Getting hands-on with DevOps tooling (Docker, CI/CD, cloud basics)
+- ⚙️ Getting hands-on with DevOps tooling (CI/CD, cloud basics)
 
----
+<br/>
 
 ## 🎉 Beyond the Code
-
-<table>
-<tr>
-<td width="40%">
-<img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="100%" alt="Outdoors" />
-</td>
-<td width="60%">
 
 When I'm not coding, you'll find me:
 - 🏞️ Trekking
@@ -177,21 +141,15 @@ When I'm not coding, you'll find me:
 - ⛺ Camping
 - Exploring beyond the screen
 
-</td>
-</tr>
-</table>
-
----
+<br/>
 
 <div align="center">
 
-### 📬 Let's Build Something Amazing Together 🌟
-
-<code>Initializing system... [OK]</code><br/>
-<code>Loading full-stack toolkit... [OK]</code><br/>
-<code>Deploying CartIQ & future projects... [ACTIVE]</code>
+### 📬 Let's Build Something Amazing Together
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3178C6,100:6E4AAA&height=120&section=footer" width="100%" />
 
 <!---
 Crusty-chirayu/Crusty-chirayu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
