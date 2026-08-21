@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6E4AAA&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Chirayu+Babu+Jaysawal;Computer+Engineering+%7C+Final+Year;Full-Stack+%2B+Java+Developer;Building+CartIQ+%E2%80%94+AI-Powered+E-Commerce" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6E4AAA&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Chirayu;Computer+Engineering+%7C+Final+Year;Full-Stack+%2B+Java+Developer;Building+CartIQ+%E2%80%94+AI-Powered+E-Commerce" alt="Typing SVG" />
 
 **Computer Engineering Student · Final Year · Full-Stack & Java Developer · Outdoor Enthusiast**
 
