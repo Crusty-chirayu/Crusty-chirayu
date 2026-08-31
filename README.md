@@ -184,7 +184,7 @@ Self-hosted FastAPI service: JWT auth, embedding-based face matching (OpenCV + d
 
 | Project | Description |
 |---|---|
-| 🤖 [ONYX / Group-Chatbot](https://github.com/Crusty-chirayu/Group-Chatbot) | Gemini-powered group chat with an `@AI` tag mechanism — academic team project |
+| 🤖 [CONFLUENCE / Group-Chatbot](https://github.com/Crusty-chirayu/Group-Chatbot) | Claude-powered group chat with an `@AI` tag mechanism — academic team project |
 | 🧩 [awesome-browser-tools](https://github.com/Crusty-chirayu/awesome-browser-tools) | Curated list of thousands of free browser extensions & tools — no paywalls, no affiliate links |
 | 🌐 [portfolio](https://github.com/Crusty-chirayu/portfolio) | Source for my personal site — [portfolio-lac-kappa-49.vercel.app](https://portfolio-lac-kappa-49.vercel.app) |
 | 📄 [my-Resume-LaTeX](https://github.com/Crusty-chirayu/my-Resume-LaTEeX-) | LaTeX source for my resume |
@@ -216,9 +216,9 @@ Self-hosted FastAPI service: JWT auth, embedding-based face matching (OpenCV + d
 
 ## 🎉 Beyond the Code
 
-When I'm not shipping, I'm usually off-screen entirely — trekking, cycling, and camping are the actual reason [TrailMate](https://github.com/Crusty-chirayu/TrailMate) exists, not just a portfolio idea. I also keep up with football (World Cup season is a whole event) and unwind with a round of Clash of Clans.
+When I'm not shipping, I'm usually off-screen entirely — trekking, cycling, and camping are the actual reason [TrailMate](https://github.com/Crusty-chirayu/TrailMate) exists, not just a portfolio idea. I also keep up with many sports events,  and unwind with a round of Clash of Clans.
 
-`🏞️ Trekking` · `🚴 Cycling` · `⛺ Camping` · `⚽ Football` · `📱 Clash of Clans`
+`🏞️⛺🚴⚽📱 Exploring` .
 
 ---
 
