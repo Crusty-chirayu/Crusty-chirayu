@@ -18,10 +18,33 @@ jobs:
           user: Crusty-chirayu
           template: classic
           base: header, activity, community, repositories, metadata
+
+          # --- Recent commits / activity feed ---
+          plugin_activity: yes
+          plugin_activity_limit: 8
+          plugin_activity_days: 30
+          plugin_activity_visibility: all
+          plugin_activity_filter: all
+
+          # --- Languages, shown as a bar-style breakdown ---
           plugin_languages: yes
           plugin_languages_analysis_timeout: 15
           plugin_languages_categories: markup, programming
           plugin_languages_limit: 8
+          plugin_languages_threshold: 0%
+          plugin_languages_details: bytes-size, percentage
+
+          # --- Lines of code changed over time (axis / area graph) ---
           plugin_lines: yes
+          plugin_lines_history_limit: 20
+          plugin_lines_sections: base, history
+
+          # --- Commit habits (bar chart) ---
           plugin_habits: yes
           plugin_habits_charts_type: bar
+          plugin_habits_days: 60
+          plugin_habits_facts: yes
+
+          # --- Contribution calendar as an isometric graph ---
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
