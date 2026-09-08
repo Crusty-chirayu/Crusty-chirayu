@@ -186,10 +186,8 @@ Self-hosted FastAPI service: JWT auth, embedding-based face matching (OpenCV + d
 
 ## 📊 Full Metrics Dashboard
 
-<img width="415" height="320" alt="Screenshot 2026-09-08 174724" src="https://github.com/user-attachments/assets/74710f9a-bb02-4911-b661-36fb0ddae359" />
-<img width="411" height="311" alt="Screenshot 2026-09-08 174735" src="https://github.com/user-attachments/assets/ff7bb692-b41a-417b-b52e-48748bca98e3" />
-<img width="412" height="135" alt="Screenshot 2026-09-08 174752" src="https://github.com/user-attachments/assets/35f58d48-a428-459d-8c72-bc1c7b0f3d48" />
-<img width="399" height="271" alt="Screenshot 2026-09-08 174759" src="https://github.com/user-attachments/assets/e2db3e1d-1be3-49bf-90b6-ddbd3d364a32" />
+<img width="1264" height="845" alt="watermark-removed-Gemini_Generated_Image_xl9ay0xl9ay0xl9a" src="https://github.com/user-attachments/assets/a1a37fd2-89a1-4db1-8e86-bdb82b6089ba" />
+
 
 
 
