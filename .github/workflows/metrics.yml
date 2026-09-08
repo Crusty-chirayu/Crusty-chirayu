@@ -17,34 +17,23 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           user: Crusty-chirayu
           template: classic
-          base: header, activity, community, repositories, metadata
 
-          # --- Recent commits / activity feed ---
-          plugin_activity: yes
-          plugin_activity_limit: 8
-          plugin_activity_days: 30
-          plugin_activity_visibility: all
-          plugin_activity_filter: all
+          # Keep the base section short — just the header/stat counters
+          base: header, activity
 
-          # --- Languages, shown as a bar-style breakdown ---
+          # Language breakdown, compact bar-style
           plugin_languages: yes
           plugin_languages_analysis_timeout: 15
           plugin_languages_categories: markup, programming
-          plugin_languages_limit: 8
-          plugin_languages_threshold: 0%
-          plugin_languages_details: bytes-size, percentage
+          plugin_languages_limit: 6
+          plugin_languages_threshold: 2%
+          plugin_languages_details: percentage
 
-          # --- Lines of code changed over time (axis / area graph) ---
+          # This IS the axis / line graph — additions vs deletions over time
           plugin_lines: yes
-          plugin_lines_history_limit: 20
           plugin_lines_sections: base, history
+          plugin_lines_history_limit: 20
 
-          # --- Commit habits (bar chart) ---
-          plugin_habits: yes
-          plugin_habits_charts_type: bar
-          plugin_habits_days: 60
-          plugin_habits_facts: yes
-
-          # --- Contribution calendar as an isometric graph ---
+          # Contribution calendar as a 3D-style graph
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
