@@ -25,7 +25,7 @@
 
 I'm a final-year Computer Engineering student who builds across the whole stack — relational database design, Java desktop apps, and modern AI-integrated web platforms. I'd rather ship five real, working, occasionally-messy projects than one perfect one that never leaves the planning doc — every repo below is real, running code, not a template with the serial numbers filed off.
 
-Right now, that means splitting time across an AI shopping platform, an open-source career-tools agent, a static-analysis engine for codebases, and a Java + MySQL system running actual hotel operations logic — while going back to older repos and making their documentation actually earn its place.
+Right now, that means splitting time across an AI shopping platform, an open-source career-tools agent, a static-analysis engine for codebases, a personal blogging platform, and a Java + MySQL system running actual hotel operations logic — while going back to older repos and making their documentation actually earn its place.
 
 **⚡ Goal:** land my first full-time role / internship as a developer, while shipping projects that go meaningfully beyond the classroom.
 
@@ -40,6 +40,7 @@ Right now, that means splitting time across an AI shopping platform, an open-sou
 | 🛒 [**CartIQ**](https://github.com/Crusty-chirayu/AI-integrated-Personalized-shopping-platform-) | AI shopping assistant + full e-commerce platform | 🟢 Core shipped, checkout in progress |
 | ⚡ [**Envoy**](https://github.com/Crusty-chirayu/Envoy) | Open-source agentic resume/CV/portfolio builder | 🟡 Early-stage, active build |
 | 🔬 [**ReForge**](https://github.com/Crusty-chirayu/ReForge) | Evidence-first static analysis engine for codebases | 🟢 Backend deep, no UI yet |
+| ✍️ [**Blog.me**](https://github.com/Crusty-chirayu/Blog.me) | Personal blogging platform | 🟡 Early-stage, just kicked off |
 | 🏔️ [**TrailMate**](https://github.com/Crusty-chirayu/TrailMate) | GPS trail tracking & trip planning | 🟡 ~65% to v1.0, paced around other work |
 
 </div>
@@ -49,6 +50,7 @@ Right now, that means splitting time across an AI shopping platform, an open-sou
 ## 🌱 Currently Learning
 
 <div align="center">
+
 | | |
 |---|---|
 | ☕ **Java** | Core language, actively building projects with it |
@@ -158,6 +160,16 @@ Plan outdoor trips, log GPS waypoints, and manage gear checklists — backed by 
 <tr>
 <td width="50%" valign="top">
 
+### ✍️ [Blog.me](https://github.com/Crusty-chirayu/Blog.me)
+**Personal blogging platform**
+
+A fresh build for long-form writing outside of GitHub — live at [blog-me-two-khaki.vercel.app](https://blog-me-two-khaki.vercel.app). Early days, MIT-licensed from commit one.
+
+`Next.js` `TypeScript` `Vercel`
+
+</td>
+<td width="50%" valign="top">
+
 ### 🏨 [Hotel Management System](https://github.com/Crusty-chirayu/Hotel-Management-System)
 **Java (Swing) + MySQL desktop app**
 
@@ -166,6 +178,8 @@ Runs front desk, staff/HR, housekeeping, and guest transport coordination — no
 `Java` `Swing` `MySQL` `JDBC`
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🪪 [FaceGate](https://github.com/Crusty-chirayu/Face-Recognition)
@@ -176,10 +190,15 @@ Self-hosted FastAPI service: JWT auth, embedding-based face matching (OpenCV + d
 `FastAPI` `Python` `SQLAlchemy` `OpenCV`
 
 </td>
+<td width="50%" valign="top">
+
+<br/>
+
+<p align="center"><i>Also collaborating full-stack on <a href="https://github.com/Crusty-chirayu/EDU-SHARE-A-Targeted-Knowledge-Exchange-Platform">EDU-SHARE</a>, an academic resource-sharing platform originally built by a friend.</i></p>
+
+</td>
 </tr>
 </table>
-
-<p align="center"><i>Also collaborating full-stack on <a href="https://github.com/Crusty-chirayu/EDU-SHARE-A-Targeted-Knowledge-Exchange-Platform">EDU-SHARE</a>, an academic resource-sharing platform originally built by a friend — check out my other repos below 👇</i></p>
 
 <br/>
 
@@ -199,12 +218,21 @@ Self-hosted FastAPI service: JWT auth, embedding-based face matching (OpenCV + d
 
 <div align="center">
 
-
+<img src="https://github-readme-stats.vercel.app/api?username=Crusty-chirayu&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Crusty-chirayu&theme=radical&hide_border=true" width="48%" />
 
+<br/>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Crusty-chirayu&layout=compact&theme=radical&hide_border=true&langs_count=8" width="48%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Crusty-chirayu&theme=react-dark&hide_border=true&area=true" width="48%" />
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Crusty-chirayu&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" width="90%" />
 
 </div>
+
+> The activity graph and trophy row pull live from GitHub's public API — nothing to configure, they just update as you commit.
 
 <br/>
 
@@ -219,9 +247,9 @@ Self-hosted FastAPI service: JWT auth, embedding-based face matching (OpenCV + d
 
 ## 🎉 Beyond the Code
 
-When I'm not shipping, I'm usually off-screen entirely — trekking, cycling, and camping are the actual reason [TrailMate](https://github.com/Crusty-chirayu/TrailMate) exists, not just a portfolio idea. I also keep up with many sports events,  and unwind with a round of Clash of Clans.
+When I'm not shipping, I'm usually off-screen entirely — trekking, cycling, and camping are the actual reason [TrailMate](https://github.com/Crusty-chirayu/TrailMate) exists, not just a portfolio idea. I also keep up with many sports events, and unwind with a round of Clash of Clans.
 
-`🏞️⛺🚴⚽📱 Exploring` .
+`🏞️⛺🚴⚽📱 Exploring`
 
 ---
 
@@ -231,7 +259,7 @@ When I'm not shipping, I'm usually off-screen entirely — trekking, cycling, an
 
 <code>Initializing system... [OK]</code><br/>
 <code>Loading full-stack toolkit... [OK]</code><br/>
-<code>Deploying CartIQ, Envoy, ReForge & more... [ACTIVE]</code>
+<code>Deploying CartIQ, Envoy, ReForge, Blog.me & more... [ACTIVE]</code>
 
 <br/><br/>
 
