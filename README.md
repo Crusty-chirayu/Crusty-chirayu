@@ -1,10 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1B4B,50:4C1D95,100:6E4AAA&height=220&section=header&text=Hi%2C%20I'm%20Chirayu&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%2B%20Java%20Developer%20%C2%B7%20Final-Year%20Computer%20Engineering&descAlignY=58&descSize=17&descColor=E4D9FF" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,25:302B63,50:24243e,75:4C1D95,100:6E4AAA&height=250&section=header&text=CHIRAYU%20BABU%20JAYSAWAL&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Engineer%20%C2%B7%20Java%20Developer%20%C2%B7%20Final-Year%20CompEng&descAlignY=55&descSize=18&descColor=E4D9FF" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9C7EE8&center=true&vCenter=true&width=650&lines=Computer+Engineering+%7C+Final+Year;Building+CartIQ%2C+Envoy%2C+ReForge+%26+more;Java+%2B+TypeScript+%2B+MySQL+%2F+Supabase;Currently+shipping%2C+not+just+learning" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=B794F6&center=true&vCenter=true&width=750&lines=I+ship+real%2C+running+code;Building+CartIQ+%C2%B7+Envoy+%C2%B7+ReForge+%C2%B7+Blog.me;Java+%2B+TypeScript+%2B+MySQL+%2F+Supabase;Currently+hunting+my+first+dev+role" alt="Typing SVG" />
 
-📍 Bangalore, India &nbsp;·&nbsp; 🎓 Final Year, Computer Engineering &nbsp;·&nbsp; 🎯 Full-Stack Development
+<br/>
+
+📍 Bangalore, India &nbsp;|&nbsp; 🎓 Final Year, Computer Engineering &nbsp;|&nbsp; 🎯 Full-Stack + AI Integration
 
 <br/>
 
@@ -12,22 +14,31 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chirayu-babu-jaysawal-916a6a2a2/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chirayujayaswal7@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/crusty__chirayu/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/chirayu.jaysawal)
 [![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.net/@crusty__chirayu)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Crusty-chirayu&style=for-the-badge&color=6e4aaa&label=PROFILE+VIEWS)
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6E4AAA,100:1E1B4B&height=3&width=100%"/>
 
 ## 🧠 About Me
 
 I'm a final-year Computer Engineering student who builds across the whole stack — relational database design, Java desktop apps, and modern AI-integrated web platforms. I'd rather ship five real, working, occasionally-messy projects than one perfect one that never leaves the planning doc — every repo below is real, running code, not a template with the serial numbers filed off.
 
-Right now, that means splitting time across an AI shopping platform, an open-source career-tools agent, a static-analysis engine for codebases, a personal blogging platform, and a Java + MySQL system running actual hotel operations logic — while going back to older repos and making their documentation actually earn its place.
+Right now that's an AI shopping platform, an open-source career-tools agent, a static-analysis engine for codebases, a fresh blogging platform, and a Java + MySQL system running actual hotel operations logic.
 
-**⚡ Goal:** land my first full-time role / internship as a developer, while shipping projects that go meaningfully beyond the classroom.
+**⚡ Current goal:** land my first full-time role / internship as a developer.
+
+<br/>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/Crusty-chirayu/Crusty-chirayu/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</div>
+
+> ⚙️ Renders once you enable the `snake.yml` workflow in this repo — see setup notes at the bottom. Runs entirely on GitHub Actions, so it never depends on a third-party server being up.
 
 <br/>
 
@@ -41,22 +52,7 @@ Right now, that means splitting time across an AI shopping platform, an open-sou
 | ⚡ [**Envoy**](https://github.com/Crusty-chirayu/Envoy) | Open-source agentic resume/CV/portfolio builder | 🟡 Early-stage, active build |
 | 🔬 [**ReForge**](https://github.com/Crusty-chirayu/ReForge) | Evidence-first static analysis engine for codebases | 🟢 Backend deep, no UI yet |
 | ✍️ [**Blog.me**](https://github.com/Crusty-chirayu/Blog.me) | Personal blogging platform | 🟡 Early-stage, just kicked off |
-| 🏔️ [**TrailMate**](https://github.com/Crusty-chirayu/TrailMate) | GPS trail tracking & trip planning | 🟡 ~65% to v1.0, paced around other work |
-
-</div>
-
-<br/>
-
-## 🌱 Currently Learning
-
-<div align="center">
-
-| | |
-|---|---|
-| ☕ **Java** | Core language, actively building projects with it |
-| 🌐 **Full-Stack Development** | Next.js, TypeScript, Supabase, TailwindCSS |
-| 🤖 **AI Integration** | Agentic pipelines, intent routing, conversational features in real apps |
-| ⚙️ **DevOps** | Docker, CI/CD, cloud fundamentals |
+| 🏔️ [**TrailMate**](https://github.com/Crusty-chirayu/TrailMate) | GPS trail tracking & trip planning | 🟡 ~65% to v1.0 |
 
 </div>
 
@@ -64,34 +60,13 @@ Right now, that means splitting time across an AI shopping platform, an open-sou
 
 ## 💾 Tech Stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java%20Swing-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
-</p>
+<img src="https://skillicons.dev/icons?i=java,ts,py,nextjs,react,fastapi,mysql,postgres,supabase,mongodb,docker,git,github,vercel,figma&theme=dark&perline=8" />
 
-<p align="center">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-</p>
+</div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</p>
+> Hover-friendly, dependency-free icon set from skillicons.dev — loads instantly, never rate-limited, doesn't rot when a badge service goes down.
 
 <br/>
 
@@ -105,10 +80,7 @@ Right now, that means splitting time across an AI shopping platform, an open-sou
   <img src="https://img.shields.io/badge/Computer%20Hardware-6E4AAA?style=for-the-badge" />
 </p>
 
-### 💬 Ask Me About
-`Java` · `Object-Oriented Design` · `MySQL` · `Next.js / TypeScript` · `AI-integrated Web Apps` · `Static Analysis & Dev Tooling` · `DevOps Fundamentals` · `Computer Hardware`
-
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E1B4B,100:6E4AAA&height=3&width=100%"/>
 
 ## 🚀 Featured Projects
 
@@ -212,25 +184,15 @@ Self-hosted FastAPI service: JWT auth, embedding-based face matching (OpenCV + d
 | 📄 [my-Resume-LaTeX](https://github.com/Crusty-chirayu/my-Resume-LaTEeX-) | LaTeX source for my resume |
 | 🛍️ [e-com-prototype](https://github.com/Crusty-chirayu/e-com-prototype) | Early e-commerce prototype |
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6E4AAA,100:1E1B4B&height=3&width=100%"/>
 
-## 📊 GitHub Stats
+## 📊 Full Metrics Dashboard
 
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Crusty-chirayu&theme=radical&hide_border=true" width="48%" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Crusty-chirayu&layout=compact&theme=radical&hide_border=true&langs_count=8" width="48%" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Crusty-chirayu&theme=react-dark&hide_border=true&area=true" width="48%" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Crusty-chirayu&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" width="90%" />
-
+<div align="center">
+<img src="https://raw.githubusercontent.com/Crusty-chirayu/Crusty-chirayu/main/github-metrics.svg" width="100%"/>
 </div>
 
-> The activity graph and trophy row pull live from GitHub's public API — nothing to configure, they just update as you commit.
+> ⚙️ Also needs `metrics.yml` enabled (setup below). This single SVG covers stats, streaks, top languages, activity calendar, and more — generated once a day by your own Action and committed straight into this repo, so it always loads.
 
 <br/>
 
@@ -245,23 +207,23 @@ Self-hosted FastAPI service: JWT auth, embedding-based face matching (OpenCV + d
 
 ## 🎉 Beyond the Code
 
-When I'm not shipping, I'm usually off-screen entirely — trekking, cycling, and camping are the actual reason [TrailMate](https://github.com/Crusty-chirayu/TrailMate) exists, not just a portfolio idea. I also keep up with many sports events, and unwind with a round of Clash of Clans.
+When I'm not shipping, I'm usually off-screen entirely — trekking, cycling, and camping are the actual reason [TrailMate](https://github.com/Crusty-chirayu/TrailMate) exists, not just a portfolio idea. I also keep up with a lot of sports, and unwind with a round of Clash of Clans.
 
-`🏞️⛺🚴⚽📱 Exploring`
+`🏞️⛺🚴⚽📱`
 
 ---
 
 <div align="center">
 
-### 📬 Let's Build Something Amazing Together 🌟
-
 <code>Initializing system... [OK]</code><br/>
 <code>Loading full-stack toolkit... [OK]</code><br/>
 <code>Deploying CartIQ, Envoy, ReForge, Blog.me & more... [ACTIVE]</code>
 
-<br/><br/>
+### 📬 Let's Build Something Amazing Together
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6E4AAA,50:4C1D95,100:1E1B4B&height=120&section=footer" width="100%"/>
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6E4AAA,50:302B63,100:0F0C29&height=150&section=footer" width="100%"/>
 
 </div>
 
