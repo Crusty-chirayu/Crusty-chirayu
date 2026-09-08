@@ -57,8 +57,6 @@ Right now that's an AI shopping platform, an open-source career-tools agent, a s
 
 ## 💾 Tech Stack
 
-## 💾 Tech Stack
-
 <div align="center">
 
 ### Languages & Core
