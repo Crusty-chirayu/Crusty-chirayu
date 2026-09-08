@@ -48,12 +48,15 @@ Right now, that means splitting time across an AI shopping platform, an open-sou
 
 ## 🌱 Currently Learning
 
+<div align="center">
 | | |
 |---|---|
 | ☕ **Java** | Core language, actively building projects with it |
 | 🌐 **Full-Stack Development** | Next.js, TypeScript, Supabase, TailwindCSS |
 | 🤖 **AI Integration** | Agentic pipelines, intent routing, conversational features in real apps |
 | ⚙️ **DevOps** | Docker, CI/CD, cloud fundamentals |
+
+</div>
 
 <br/>
 
