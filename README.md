@@ -62,11 +62,9 @@ Right now that's an AI shopping platform, an open-source career-tools agent, a s
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,ts,py,nextjs,react,fastapi,mysql,postgres,supabase,mongodb,docker,git,github,vercel,figma&theme=dark&perline=8" />
+<img src="https://raw.githubusercontent.com/Crusty-chirayu/Crusty-chirayu/main/techstack.svg" width="100%"/>
 
 </div>
-
-> Hover-friendly, dependency-free icon set from skillicons.dev — loads instantly, never rate-limited, doesn't rot when a badge service goes down.
 
 <br/>
 
