@@ -186,11 +186,13 @@ Self-hosted FastAPI service: JWT auth, embedding-based face matching (OpenCV + d
 
 ## 📊 Full Metrics Dashboard
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/Crusty-chirayu/Crusty-chirayu/main/github-metrics.svg" width="100%"/>
-</div>
+<img width="415" height="320" alt="Screenshot 2026-09-08 174724" src="https://github.com/user-attachments/assets/74710f9a-bb02-4911-b661-36fb0ddae359" />
+<img width="411" height="311" alt="Screenshot 2026-09-08 174735" src="https://github.com/user-attachments/assets/ff7bb692-b41a-417b-b52e-48748bca98e3" />
+<img width="412" height="135" alt="Screenshot 2026-09-08 174752" src="https://github.com/user-attachments/assets/35f58d48-a428-459d-8c72-bc1c7b0f3d48" />
+<img width="399" height="271" alt="Screenshot 2026-09-08 174759" src="https://github.com/user-attachments/assets/e2db3e1d-1be3-49bf-90b6-ddbd3d364a32" />
 
-> ⚙️ Also needs `metrics.yml` enabled (setup below). This single SVG covers stats, streaks, top languages, activity calendar, and more — generated once a day by your own Action and committed straight into this repo, so it always loads.
+
+
 
 <br/>
 
