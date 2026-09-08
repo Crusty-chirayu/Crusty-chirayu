@@ -38,7 +38,6 @@ Right now that's an AI shopping platform, an open-source career-tools agent, a s
 <img src="https://raw.githubusercontent.com/Crusty-chirayu/Crusty-chirayu/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </div>
 
-> ⚙️ Renders once you enable the `snake.yml` workflow in this repo — see setup notes at the bottom. Runs entirely on GitHub Actions, so it never depends on a third-party server being up.
 
 <br/>
 
