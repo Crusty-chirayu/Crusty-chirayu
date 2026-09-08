@@ -211,14 +211,6 @@ Self-hosted FastAPI service: JWT auth, embedding-based face matching (OpenCV + d
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6E4AAA,100:1E1B4B&height=3&width=100%"/>
 
-## 📊 Full Metrics Dashboard
-
-<img width="1264" height="845" alt="watermark-removed-Gemini_Generated_Image_xl9ay0xl9ay0xl9a" src="https://github.com/user-attachments/assets/a1a37fd2-89a1-4db1-8e86-bdb82b6089ba" />
-
-
-
-
-
 <br/>
 
 ## 🎯 What I'm Working Toward
