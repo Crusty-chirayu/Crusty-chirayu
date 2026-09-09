@@ -45,7 +45,7 @@ Right now that's an AI shopping platform, an open-source career-tools agent, a s
 
 | Project | What it is | Status |
 |---|---|:---:|
-| 🛒 [**CartIQ**](https://github.com/Crusty-chirayu/AI-integrated-Personalized-shopping-platform-) | AI shopping assistant + full e-commerce platform | 🟢 Core shipped, checkout in progress |
+| 🛒 [**CartIQ**](https://github.com/Crusty-chirayu/AI-integrated-Personalized-shopping-platform-) | AI shopping assistant + full e-commerce platform | 🟢 Core shipped and Website Deployed : Currently Testing |
 | ⚡ [**Envoy**](https://github.com/Crusty-chirayu/Envoy) | Open-source agentic resume/CV/portfolio builder | 🟡 Early-stage, active build |
 | 🔬 [**ReForge**](https://github.com/Crusty-chirayu/ReForge) | Evidence-first static analysis engine for codebases | 🟢 Backend deep, no UI yet |
 | ✍️ [**Blog.me**](https://github.com/Crusty-chirayu/Blog.me) | Personal blogging platform | 🟢 Final-stage, Just deployed and currently Testing  |
