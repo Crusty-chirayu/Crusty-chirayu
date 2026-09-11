@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,25:302B63,50:24243e,75:4C1D95,100:6E4AAA&height=250&section=header&text=CHIRAYU%20BABU%20JAYSAWAL&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Engineer%20%C2%B7%20Java%20Developer%20%C2%B7%20Final-Year%20CompEng&descAlignY=55&descSize=18&descColor=E4D9FF" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,25:302B63,50:24243e,75:4C1D95,100:6E4AAA&height=250&section=header&text=CHIRAYU&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Engineer%20%C2%B7%20Java%20Developer%20%C2%B7%20Final-Year%20CompEng&descAlignY=55&descSize=18&descColor=E4D9FF" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=B794F6&center=true&vCenter=true&width=750&lines=I+ship+real%2C+running+code;Building+CartIQ+%C2%B7+Envoy+%C2%B7+ReForge+%C2%B7+Blog.me;Java+%2B+TypeScript+%2B+MySQL+%2F+Supabase;Currently+hunting+my+first+dev+role" alt="Typing SVG" />
 
