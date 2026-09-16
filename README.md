@@ -15,6 +15,11 @@
 [![GitHub](https://img.shields.io/badge/GitHub-6D28D9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Crusty-chirayu)
 [![Email](https://img.shields.io/badge/Email-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chirayujayaswal7@gmail.com)
 
+<br />
+
+<!-- tiny blinking terminal status line -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=900&pause=900&color=4ADE80&center=true&vCenter=true&width=280&height=20&lines=chirayu%40dev%3A~%24+_;chirayu%40dev%3A~%24" alt="terminal status" />
+
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e1b4b,100:6d28d9&height=3&width=100%25" width="100%" alt="divider" />
@@ -49,6 +54,36 @@ Conversational assistant wired to a live Supabase catalog, voice input, persiste
 </td>
 <td width="50%" valign="top">
 
+### 🏔️&nbsp; TrailMate
+**Outdoor trip & GPS trail tracker**
+
+Production-ready trip planner with GPS tracking, route analytics, GPX tools, offline support, and trail sharing — built on Supabase Postgres with row-level security.
+
+![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+
+🟢 **DEPLOYED · v1** · [Repo ↗](https://github.com/Crusty-chirayu/Trailmate) · [Live ↗](https://trailmate-zeta.vercel.app/)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ⚡&nbsp; Envoy
+**Agentic resume & portfolio builder**
+
+Open-source AI agent platform providing free, market-tailored templates to build, polish, and personalize resumes, CVs, and portfolios.
+
+![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+
+🟠 **DEPLOYED · v1 (fixing bugs found in testing)** · [Repo ↗](https://github.com/Crusty-chirayu/Envoy) · [Live ↗](https://envoy-i02z.onrender.com/)
+
+</td>
+<td width="50%" valign="top">
+
 ### 🔬&nbsp; ReForge
 **Evidence-first code analysis engine**
 
@@ -57,37 +92,7 @@ A deterministic static-analysis API — ingests a repo, builds an AST-derived pr
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Fastify](https://img.shields.io/badge/-Fastify-000?style=flat-square&logo=fastify&logoColor=white)
 
-🔵 **ACTIVE · Phase 12** · [Repo ↗](https://github.com/Crusty-chirayu/ReForge)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🏔️&nbsp; TrailMate
-**Outdoor trip & GPS trail tracker**
-
-Plan trips, log GPS waypoints, and manage gear checklists on Supabase Postgres with full row-level security — or run entirely offline via a local-storage fallback mode.
-
-![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-
-🟡 **~65% to v1.0** · [Repo ↗](https://github.com/Crusty-chirayu/TrailMate)
-
-</td>
-<td width="50%" valign="top">
-
-### ⚡&nbsp; Envoy
-**Agentic resume & portfolio builder**
-
-Open-source career agent — parses a resume into a structured profile, tailors it against a target role/sector, then renders an ATS-ready resume, CV, or deployable portfolio.
-
-![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-
-🟣 **EARLY · architecture stage** · [Repo ↗](https://github.com/Crusty-chirayu/Envoy)
+🔴 **ON HOLD · planning next phase** · [Repo ↗](https://github.com/Crusty-chirayu/ReForge)
 
 </td>
 </tr>
@@ -116,7 +121,14 @@ Open-source career agent — parses a resume into a structured profile, tailors 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e1b4b,100:6d28d9&height=3&width=100%25" width="100%" alt="divider" />
 
+## 🤝 Connect
+
 <div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=A78BFA)](https://portfolio-lac-kappa-49.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=A78BFA)](https://www.linkedin.com/in/chirayu-babu-jaysawal-916a6a2a2/)
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=A78BFA)](https://github.com/Crusty-chirayu)
+[![Gmail](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=A78BFA)](mailto:chirayujayaswal7@gmail.com)
 
 🏞️ Outside code: trails, bikes, and the occasional gaming session.
 
