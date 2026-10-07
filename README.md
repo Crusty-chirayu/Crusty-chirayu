@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,100:6d28d9&height=200&section=header&text=Chirayu%20Babu%20Jaysawal&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20AI-Integrated%20Systems&descAlignY=58&descSize=18" width="100%" alt="header banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,100:6d28d9&height=200&section=header&text=Chirayu&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20AI-Integrated%20Systems&descAlignY=58&descSize=18" width="100%" alt="header banner" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+AI-wired+full-stack+systems;Next.js+%2B+TypeScript+%2B+Supabase;Computer+Engineering+%C2%B7+Bangalore%2C+India" alt="typing animation" />
 
