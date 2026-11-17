@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="720" viewBox="0 0 1600 720" role="img" aria-labelledby="t725049616">
+<title id="t725049616">Chirayu — I imagine what’s next. Then I engineer it into existence.</title><desc>Editorial masthead for Chirayu Babu Jaysawal, AI and full-stack developer in Bengaluru, with a scrolling strip of technologies.</desc>
+<style>.tape{animation:slide 75s linear infinite}@keyframes slide{to{transform:translateX(-2332px)}}
+@media (prefers-reduced-motion: reduce){*{animation:none !important}}</style>
+
+<defs>
+  <pattern id="dots" width="14" height="14" patternUnits="userSpaceOnUse"><circle cx="7" cy="7" r="2.2" fill="#F4EFE6" fill-opacity=".2"/></pattern>
+</defs>
+<rect width="1600" height="720" fill="#F4EFE6"/>
+<rect x="2" y="2" width="1596" height="716" fill="none" stroke="#14110F" stroke-width="4"/>
+
+<!-- masthead -->
+<text x="56" y="47" font-family="ui-monospace, 'SFMono-Regular', Menlo, Consolas, 'Liberation Mono', 'DejaVu Sans Mono', monospace" font-size="21" font-weight="400" fill="#14110F" text-anchor="start" textLength="378" lengthAdjust="spacing" >VOL. 01 / BENGALURU / 2026</text>
+<text x="1544" y="47" font-family="ui-monospace, 'SFMono-Regular', Menlo, Consolas, 'Liberation Mono', 'DejaVu Sans Mono', monospace" font-size="21" font-weight="400" fill="#14110F" text-anchor="end" textLength="363" lengthAdjust="spacing" >AI &amp; FULL-STACK DEVELOPER</text>
+<line x1="2" x2="1598" y1="76" y2="76" stroke="#14110F" stroke-width="3"/>
+
+<!-- headline -->
+<text x="52" y="275" font-family="Georgia, 'Times New Roman', 'Liberation Serif', 'DejaVu Serif', serif" font-size="176" font-weight="700" fill="#14110F" textLength="800" lengthAdjust="spacingAndGlyphs">I imagine</text>
+<text x="52" y="450" font-family="Georgia, 'Times New Roman', 'Liberation Serif', 'DejaVu Serif', serif" font-size="176" font-weight="700" fill="#14110F" textLength="930" lengthAdjust="spacingAndGlyphs">what’s <tspan font-style="italic" fill="#1F3BFF">next.</tspan></text>
+
+<!-- deck with marker highlight -->
+<rect x="596" y="506" width="262" height="60" fill="#FFE45C"/>
+<text x="56" y="548" font-family="Georgia, 'Times New Roman', 'Liberation Serif', 'DejaVu Serif', serif" font-size="46" fill="#4A433C" textLength="522" lengthAdjust="spacingAndGlyphs">Then I engineer it into</text>
+<text x="608" y="550" font-family="Georgia, 'Times New Roman', 'Liberation Serif', 'DejaVu Serif', serif" font-size="46" font-weight="700" fill="#14110F" textLength="238" lengthAdjust="spacingAndGlyphs">existence.</text>
+<text x="56" y="620" font-family="ui-monospace, 'SFMono-Regular', Menlo, Consolas, 'Liberation Mono', 'DejaVu Sans Mono', monospace" font-size="19" font-weight="400" fill="#6B6259" text-anchor="start" textLength="588" lengthAdjust="spacing" >B.E. COMPUTER ENGINEERING / BENGALURU, INDIA</text>
+
+<!-- arch portrait -->
+<path d="M1070 612 V382 A210 210 0 0 1 1490 382 V612 Z" fill="#1F3BFF"/>
+<path d="M1070 612 V382 A210 210 0 0 1 1490 382 V612 Z" fill="url(#dots)"/>
+<text x="1280" y="528" font-family="Georgia, 'Times New Roman', 'Liberation Serif', 'DejaVu Serif', serif" font-size="340" font-weight="700" font-style="italic" fill="#F4EFE6" text-anchor="middle">C</text>
+<path d="M1070 612 V382 A210 210 0 0 1 1490 382 V612 Z" fill="none" stroke="#14110F" stroke-width="4"/>
+
+<!-- sticker -->
+<g transform="translate(1262 176) rotate(7)">
+  <rect x="6" y="6" width="272" height="50" fill="#14110F"/>
+  <rect width="272" height="50" fill="#FFE45C" stroke="#14110F" stroke-width="3"/>
+  <text x="136" y="33" font-family="ui-monospace, 'SFMono-Regular', Menlo, Consolas, 'Liberation Mono', 'DejaVu Sans Mono', monospace" font-size="21" font-weight="700" fill="#14110F" text-anchor="middle" textLength="217" lengthAdjust="spacing" >AI + FULL-STACK</text>
+</g>
+
+<!-- margin note -->
+<g transform="rotate(-4 860 135)">
+  <text x="850" y="132" font-family="'Bradley Hand', 'Segoe Script', 'Comic Sans MS', 'Comic Neue', cursive" font-size="38" fill="#C2360F">the C is for Chirayu</text>
+</g>
+<path d="M1166 126 C1218 130 1226 168 1186 192" fill="none" stroke="#C2360F" stroke-width="3.5" stroke-linecap="round"/>
+<path d="M1186 192 l-2 -16 M1186 192 l-15 -6" fill="none" stroke="#C2360F" stroke-width="3.5" stroke-linecap="round"/>
+
+<!-- scrolling tape -->
+<g transform="rotate(-1.2 800 671)">
+  <rect x="-80" y="640" width="1760" height="62" fill="#F0481E" stroke="#14110F" stroke-width="3"/>
+  <g class="tape"><text x="-40" y="681" font-family="ui-monospace, 'SFMono-Regular', Menlo, Consolas, 'Liberation Mono', 'DejaVu Sans Mono', monospace" font-size="24" font-weight="500" fill="#14110F" text-anchor="start" textLength="2329" lengthAdjust="spacing" >TYPESCRIPT / NEXT.JS / REACT / FASTIFY / FASTAPI / SUPABASE / POSTGRESQL / THREE.JS / MAPLIBRE GL / DOCKER / PLAYWRIGHT / AI AGENTS / </text><text x="2292" y="681" font-family="ui-monospace, 'SFMono-Regular', Menlo, Consolas, 'Liberation Mono', 'DejaVu Sans Mono', monospace" font-size="24" font-weight="500" fill="#14110F" text-anchor="start" textLength="2329" lengthAdjust="spacing" >TYPESCRIPT / NEXT.JS / REACT / FASTIFY / FASTAPI / SUPABASE / POSTGRESQL / THREE.JS / MAPLIBRE GL / DOCKER / PLAYWRIGHT / AI AGENTS / </text></g>
+</g>
+</svg>

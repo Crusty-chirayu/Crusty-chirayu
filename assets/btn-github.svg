@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="76" viewBox="0 0 300 76" role="img" aria-labelledby="t2039557727">
+<title id="t2039557727">GITHUB ↗</title>
+<style>
+@media (prefers-reduced-motion: reduce){*{animation:none !important}}</style>
+
+<rect x="6" y="8" width="288" height="64" rx="32" fill="#14110F"/>
+<rect x="2" y="2" width="288" height="64" rx="32" fill="#FBF8F2" stroke="#14110F" stroke-width="3"/>
+<text x="146" y="43" font-family="ui-monospace, 'SFMono-Regular', Menlo, Consolas, 'Liberation Mono', 'DejaVu Sans Mono', monospace" font-size="22" font-weight="700" fill="#14110F" text-anchor="middle" textLength="113" lengthAdjust="spacing" >GITHUB ↗</text>
+</svg>

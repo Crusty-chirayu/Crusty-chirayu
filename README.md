@@ -1,139 +1,101 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,100:6d28d9&height=200&section=header&text=Chirayu&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20AI-Integrated%20Systems&descAlignY=58&descSize=18" width="100%" alt="header banner" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+AI-wired+full-stack+systems;Next.js+%2B+TypeScript+%2B+Supabase;Computer+Engineering+%C2%B7+Bangalore%2C+India" alt="typing animation" />
+<img src="assets/banner.svg" width="100%" alt="Chirayu: I imagine what’s next. Then I engineer it into existence. AI and full-stack developer in Bengaluru." />
 
 <br />
 
-🚀 I build production-shaped web apps — real databases, real auth, AI wired into the actual product flow, not a chatbot bolted on the side.
+<a href="https://chirayu.dpdns.org"><img src="assets/btn-site.svg" height="46" alt="Portfolio" /></a>
+<a href="https://github.com/Crusty-chirayu"><img src="assets/btn-github.svg" height="46" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/chirayu-babu-jaysawal/"><img src="assets/btn-linkedin.svg" height="46" alt="LinkedIn" /></a>
+<a href="mailto:chirayujayaswal7@gmail.com"><img src="assets/btn-email.svg" height="46" alt="Email me" /></a>
 
-<br />
+<br /><br />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-lac-kappa-49.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chirayu-babu-jaysawal-916a6a2a2/)
-[![GitHub](https://img.shields.io/badge/GitHub-6D28D9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Crusty-chirayu)
-[![Email](https://img.shields.io/badge/Email-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chirayujayaswal7@gmail.com)
-
-<br />
-
-<!-- tiny blinking terminal status line -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=900&pause=900&color=4ADE80&center=true&vCenter=true&width=280&height=20&lines=chirayu%40dev%3A~%24+_;chirayu%40dev%3A~%24" alt="terminal status" />
+**I build production-shaped web apps: real databases, real auth, and AI wired into the actual product flow, not a chatbot bolted on the side.**
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e1b4b,100:6d28d9&height=3&width=100%25" width="100%" alt="divider" />
+<br />
 
-## 🧰 Stack
+<img src="assets/h-now.svg" width="100%" alt="01, Now building" />
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,ts,js,py,react,nextjs,tailwind,nodejs,express,postgres,mysql,supabase,git,vercel&theme=dark&perline=7" alt="Skill icons" />
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e1b4b,100:6d28d9&height=3&width=100%25" width="100%" alt="divider" />
-
-## 🚀 Building
-
-<table width="100%">
+<table>
 <tr>
 <td width="50%" valign="top">
-
-### 🛒&nbsp; CartIQ
-**AI-integrated shopping platform**
-
-Conversational assistant wired to a live Supabase catalog, voice input, persistent chat history, and an admin dashboard with real order/inventory management and PDF exports.
-
-![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-
-🟢 **DEPLOYED** · [Repo ↗](https://github.com/Crusty-chirayu/AI-integrated-Personalized-shopping-platform-) · [Live ↗](https://ai-integrated-personalized-shopping-platform-nzovyhk29.vercel.app/)
-
+<a href="https://envoy-i02z.onrender.com/"><img src="assets/card-envoy.svg" width="100%" alt="Envoy: open-source AI agent platform for free, market-tailored resumes, CVs and portfolios. Next.js, Fastify, Supabase." /></a>
+<br /><sub><b><a href="https://envoy-i02z.onrender.com/">Live ↗</a></b> &nbsp;·&nbsp; <a href="https://github.com/Crusty-chirayu/Envoy">Repo ↗</a></sub>
 </td>
 <td width="50%" valign="top">
-
-### 🏔️&nbsp; TrailMate
-**Outdoor trip & GPS trail tracker**
-
-Production-ready trip planner with GPS tracking, route analytics, GPX tools, offline support, and trail sharing — built on Supabase Postgres with row-level security.
-
-![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-
-🟢 **DEPLOYED · v1** · [Repo ↗](https://github.com/Crusty-chirayu/Trailmate) · [Live ↗](https://trailmate-zeta.vercel.app/)
-
+<a href="https://cartiq-five.vercel.app/"><img src="assets/card-cartiq.svg" width="100%" alt="CartIQ: conversational shopping assistant wired to a live Supabase catalog, with voice input, chat history and an admin dashboard." /></a>
+<br /><sub><b><a href="https://cartiq-five.vercel.app/">Live ↗</a></b> &nbsp;·&nbsp; <a href="https://github.com/Crusty-chirayu/CartIQ">Repo ↗</a></sub>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-
-### ⚡&nbsp; Envoy
-**Agentic resume & portfolio builder**
-
-Open-source AI agent platform providing free, market-tailored templates to build, polish, and personalize resumes, CVs, and portfolios.
-
-![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-
-🟠 **DEPLOYED · v1 (fixing bugs found in testing)** · [Repo ↗](https://github.com/Crusty-chirayu/Envoy) · [Live ↗](https://envoy-i02z.onrender.com/)
-
+<a href="https://aeroloom-five.vercel.app"><img src="assets/card-aeroloom.svg" width="100%" alt="Aeroloom: real-time ADS-B flight tracker with editorial cartography, MapLibre GL and live aircraft telemetry over WebSockets." /></a>
+<br /><sub><b><a href="https://aeroloom-five.vercel.app">Live ↗</a></b> &nbsp;·&nbsp; <a href="https://github.com/Crusty-chirayu/Aeroloom">Repo ↗</a></sub>
 </td>
 <td width="50%" valign="top">
-
-### 🔬&nbsp; ReForge
-**Evidence-first code analysis engine**
-
-A deterministic static-analysis API — ingests a repo, builds an AST-derived project model, and generates verifiable engineering reports and remediation plans. No LLM guesswork in the core findings.
-
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Fastify](https://img.shields.io/badge/-Fastify-000?style=flat-square&logo=fastify&logoColor=white)
-
-🔴 **ON HOLD · planning next phase** · [Repo ↗](https://github.com/Crusty-chirayu/ReForge)
-
+<a href="https://group-chatbot-ruby.vercel.app/"><img src="assets/card-confluence.svg" width="100%" alt="Confluence: full-stack real-time group chat with AI integrated into the conversation, built solo." /></a>
+<br /><sub><b><a href="https://group-chatbot-ruby.vercel.app/">Live ↗</a></b> &nbsp;·&nbsp; <a href="https://github.com/Crusty-chirayu/Confluence">Repo ↗</a></sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://trailmate-zeta.vercel.app/"><img src="assets/card-trailmate.svg" width="100%" alt="TrailMate: GPS trail tracking, route analytics, GPX tools, offline support and trail sharing on Supabase Postgres with row-level security." /></a>
+<br /><sub><b><a href="https://trailmate-zeta.vercel.app/">Live ↗</a></b> &nbsp;·&nbsp; <a href="https://github.com/Crusty-chirayu/Trailmate">Repo ↗</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://aaragate.onrender.com/"><img src="assets/card-aaragate.svg" width="100%" alt="AARAGATE: AI tutor and batch study rooms for GATE preparation, with streaming chat, built solo." /></a>
+<br /><sub><b><a href="https://aaragate.onrender.com/">Live ↗</a></b> &nbsp;·&nbsp; <a href="https://github.com/Crusty-chirayu/AARAGATE">Repo ↗</a></sub>
 </td>
 </tr>
 </table>
 
-<sub>🗄️ Earlier build: <a href="https://github.com/Crusty-chirayu/Hotel-Management-System">Hotel Management System</a> — Java Swing + MySQL desktop app for bookings, check-in/out, and billing.</sub>
+**In development** &nbsp;/&nbsp; **FaceGate**, a face-recognition attendance API growing into a full-stack dashboard ([repo](https://github.com/Crusty-chirayu/Face-Recognition)) &nbsp;·&nbsp; **Weave**, a local-first knowledge management app (private for now)
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e1b4b,100:6d28d9&height=3&width=100%25" width="100%" alt="divider" />
+**Also built** &nbsp;/&nbsp; [Atmos](https://atmos-zeta-ten.vercel.app), AI weather intelligence with real-time forecasts &nbsp;·&nbsp; [Scrappy](https://scrappy-alpha-taupe.vercel.app) &nbsp;·&nbsp; [Edu-Share](https://github.com/Crusty-chirayu/Edu-Share), an academic resource platform built with a friend &nbsp;·&nbsp; [ReForge](https://github.com/Crusty-chirayu/ReForge), AI-assisted project analysis and re-engineering &nbsp;·&nbsp; [Typist-Pro](https://neon-typist-racer.vercel.app), a typing game and analyzer &nbsp;·&nbsp; [HMS](https://github.com/Crusty-chirayu/HMS), a Java Swing and MySQL hotel management app &nbsp;·&nbsp; [chirayu-resume](https://github.com/Crusty-chirayu/chirayu-resume), résumé as code &nbsp;·&nbsp; [awesome-browser-tools](https://github.com/Crusty-chirayu/awesome-browser-tools), a curated list of free browser tools
 
-## 📊 Activity
+<br />
 
-<div align="center">
+<img src="assets/h-toolbox.svg" width="100%" alt="02, The toolbox" />
 
-<img src="https://github-stats-extended.vercel.app/api?username=Crusty-chirayu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9" height="165" alt="GitHub stats" />
-<img src="https://streak-stats.demolab.com/?user=Crusty-chirayu&theme=tokyonight&hide_border=true&background=0d1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" height="165" alt="GitHub streak" />
+<img src="assets/toolbox.svg" width="100%" alt="Languages: TypeScript, JavaScript, Java, Python, C, C++, SQL. Frontend: React, Next.js, Vite, Tailwind CSS, Motion, Three.js, MapLibre GL. Backend: Node.js, Express, Fastify, FastAPI, REST, WebSockets, Socket.IO. Data: PostgreSQL, MongoDB, SQLite, Supabase, Neon. AI and media: Claude, Gemini, Groq, Cerebras, OpenCV, ComfyUI, WAN, Kling, Luma. Delivery: Docker, Vercel, Render, Playwright, Git." />
 
-<br /><br />
+<br />
+
+<img src="assets/h-numbers.svg" width="100%" alt="03, By the numbers" />
+
+<img src="assets/stats.svg" width="100%" alt="GitHub numbers: owned public repositories, stars, and most used language." />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Crusty-chirayu/Crusty-chirayu/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Crusty-chirayu/Crusty-chirayu/output/github-contribution-grid-snake.svg" />
-  <img src="https://raw.githubusercontent.com/Crusty-chirayu/Crusty-chirayu/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution snake animation" />
+  <img src="https://raw.githubusercontent.com/Crusty-chirayu/Crusty-chirayu/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution graph with a snake eating the commits" />
 </picture>
 
-</div>
+<br />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e1b4b,100:6d28d9&height=3&width=100%25" width="100%" alt="divider" />
+<img src="assets/h-clock.svg" width="100%" alt="04, Off the clock" />
 
-## 🤝 Connect
+<img src="assets/clippings.svg" width="100%" alt="Freelance AI visual work since 2022, writing on Blog.me, and time outdoors: trekking, cycling, camping, doodling." />
+
+<div align="center"><sub>Read the blog: <a href="https://blog-me-mauve.vercel.app/"><b>Blog.me ↗</b></a></sub></div>
+
+<br />
+
+<img src="assets/h-elsewhere.svg" width="100%" alt="05, Find me elsewhere" />
+
+<img src="assets/ticket.svg" width="100%" alt="Contact ticket. Email: chirayujayaswal7@gmail.com. GitHub: github.com/Crusty-chirayu. LinkedIn: in/chirayu-babu-jaysawal. Site: chirayu.dpdns.org." />
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=A78BFA)](https://portfolio-lac-kappa-49.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=A78BFA)](https://www.linkedin.com/in/chirayu-babu-jaysawal-916a6a2a2/)
-[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=A78BFA)](https://github.com/Crusty-chirayu)
-[![Gmail](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=A78BFA)](mailto:chirayujayaswal7@gmail.com)
-
-🏞️ Outside code: trails, bikes, and the occasional gaming session.
-
-<br /><br />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6d28d9,100:1e1b4b&height=100&section=footer" width="100%" alt="footer" />
+<a href="https://chirayu.dpdns.org"><img src="assets/btn-site.svg" height="46" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/chirayu-babu-jaysawal/"><img src="assets/btn-linkedin.svg" height="46" alt="LinkedIn" /></a>
+<a href="mailto:chirayujayaswal7@gmail.com"><img src="assets/btn-email.svg" height="46" alt="Email me" /></a>
 
 </div>
+
+<br />
+
+<img src="assets/footer.svg" width="100%" alt="Thanks for reading. Chirayu Babu Jaysawal, Bengaluru, 2026." />

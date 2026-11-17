@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="140" viewBox="0 0 1600 140" role="img" aria-labelledby="t2048059907">
+<title id="t2048059907">The toolbox</title>
+<style>
+@media (prefers-reduced-motion: reduce){*{animation:none !important}}</style>
+
+<text x="6" y="38" font-family="ui-monospace, 'SFMono-Regular', Menlo, Consolas, 'Liberation Mono', 'DejaVu Sans Mono', monospace" font-size="20" font-weight="400" fill="#6B6259" text-anchor="start" textLength="92" lengthAdjust="spacing" >— 02 —</text>
+<text x="1594" y="38" font-family="ui-monospace, 'SFMono-Regular', Menlo, Consolas, 'Liberation Mono', 'DejaVu Sans Mono', monospace" font-size="20" font-weight="400" fill="#6B6259" text-anchor="end" textLength="268" lengthAdjust="spacing" >WHAT I BUILD WITH</text>
+<text x="2" y="108" font-family="Georgia, 'Times New Roman', 'Liberation Serif', 'DejaVu Serif', serif" font-size="84" font-weight="700" fill="#14110F" textLength="462" lengthAdjust="spacingAndGlyphs">The <tspan font-style="italic" fill="#1F3BFF">toolbox</tspan></text>
+<line x1="0" x2="1600" y1="128" y2="128" stroke="#14110F" stroke-width="3"/>
+<rect x="0" y="122" width="140" height="12" fill="#F0481E"/>
+</svg>
