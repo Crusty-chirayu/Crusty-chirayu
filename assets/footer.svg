@@ -3,6 +3,7 @@
 <style>
 @media (prefers-reduced-motion: reduce){*{animation:none !important}}</style>
 
+
 <rect width="1600" height="230" fill="#14110F"/>
 <rect width="1600" height="10" fill="#F0481E"/>
 <text x="48" y="124" font-family="Georgia, 'Times New Roman', 'Liberation Serif', 'DejaVu Serif', serif" font-size="92" font-weight="700" fill="#F4EFE6" textLength="874" lengthAdjust="spacingAndGlyphs">Thanks for <tspan font-style="italic" fill="#FFE45C">reading.</tspan></text>

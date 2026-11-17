@@ -3,6 +3,7 @@
 <style>
 @media (prefers-reduced-motion: reduce){*{animation:none !important}}</style>
 
+
 <rect x="14" y="14" width="780" height="400" fill="#14110F"/>
 <rect x="2" y="2" width="780" height="400" fill="#FBF8F2" stroke="#14110F" stroke-width="4"/>
 <text x="32" y="58" font-family="ui-monospace, 'SFMono-Regular', Menlo, Consolas, 'Liberation Mono', 'DejaVu Sans Mono', monospace" font-size="20" font-weight="400" fill="#6B6259" text-anchor="start" textLength="348" lengthAdjust="spacing" >03 / REAL-TIME FLIGHT MAP</text>

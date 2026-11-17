@@ -1,11 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="140" viewBox="0 0 1600 140" role="img" aria-labelledby="t841456999">
+<svg xmlns="http://www.w3.org/2000/svg" width="1664" height="140" viewBox="0 0 1664 140" role="img" aria-labelledby="t841456999">
 <title id="t841456999">Off the clock</title>
 <style>
 @media (prefers-reduced-motion: reduce){*{animation:none !important}}</style>
-
+<rect width="1664" height="140" fill="#F4EFE6"/>
+<g transform="translate(32 0)">
 <text x="6" y="38" font-family="ui-monospace, 'SFMono-Regular', Menlo, Consolas, 'Liberation Mono', 'DejaVu Sans Mono', monospace" font-size="20" font-weight="400" fill="#6B6259" text-anchor="start" textLength="92" lengthAdjust="spacing" >— 04 —</text>
 <text x="1594" y="38" font-family="ui-monospace, 'SFMono-Regular', Menlo, Consolas, 'Liberation Mono', 'DejaVu Sans Mono', monospace" font-size="20" font-weight="400" fill="#6B6259" text-anchor="end" textLength="220" lengthAdjust="spacing" >THE OTHER HALF</text>
 <text x="2" y="108" font-family="Georgia, 'Times New Roman', 'Liberation Serif', 'DejaVu Serif', serif" font-size="84" font-weight="700" fill="#14110F" textLength="546" lengthAdjust="spacingAndGlyphs">Off the <tspan font-style="italic" fill="#1F3BFF">clock</tspan></text>
 <line x1="0" x2="1600" y1="128" y2="128" stroke="#14110F" stroke-width="3"/>
-<rect x="0" y="122" width="140" height="12" fill="#F0481E"/>
+<rect x="0" y="122" width="140" height="12" fill="#F0481E"/></g>
 </svg>

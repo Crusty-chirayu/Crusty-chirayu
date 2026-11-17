@@ -68,8 +68,9 @@ recent.forEach((r, i) => {
 ${mono(x + 6, 534, fmt(r.pushed_at), { size: 18, fill: C.ink500, spacing: 3 })}`;
 });
 mkdirSync('assets', { recursive: true });
-writeFileSync('assets/stats.svg', svg(W, H, body, {
+writeFileSync('assets/stats.svg', svg(W + 64, H + 56, `<g transform="translate(32 28)">${body}</g>`, {
   title: 'GitHub by the numbers',
   desc: `${nPlus(repos.length)} owned public repositories, ${nPlus(stars)} stars, most used language ${langList[0]?.[0] ?? 'n/a'}. Counts exclude forks.`,
+  bg: C.paper,
 }));
 console.log('wrote assets/stats.svg', { repos: repos.length, stars, top: langList.slice(0, 3) });

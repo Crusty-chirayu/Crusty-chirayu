@@ -18,12 +18,13 @@ export const MONO_W = 0.6; // advance width (em) we force with textLength so lay
 // "N+" style numbers (no exact counts for open-ended collections).
 export const nPlus = (n) => (n < 10 ? `${n}+` : `${Math.floor(n / 5) * 5}+`);
 
-export function svg(w, h, body, { title, desc, style = '' } = {}) {
+export function svg(w, h, body, { title, desc, style = '', bg = null } = {}) {
   const id = 't' + Math.abs([...(title || 'x')].reduce((a, c) => (a * 31 + c.charCodeAt(0)) | 0, 7));
   return `<svg xmlns="http://www.w3.org/2000/svg" width="${w}" height="${h}" viewBox="0 0 ${w} ${h}" role="img" aria-labelledby="${id}">
 <title id="${id}">${esc(title || '')}</title>${desc ? `<desc>${esc(desc)}</desc>` : ''}
 <style>${style}
 @media (prefers-reduced-motion: reduce){*{animation:none !important}}</style>
+${bg ? `<rect width="${w}" height="${h}" fill="${bg}"/>` : ''}
 ${body}
 </svg>
 `;

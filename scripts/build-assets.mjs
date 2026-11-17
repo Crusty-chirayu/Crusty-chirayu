@@ -21,7 +21,7 @@ const out = (name, content) => { writeFileSync(`assets/${name}`, content); conso
 function banner() {
   const W = 1600, H = 720;
   const tapeItems = ['TYPESCRIPT', 'NEXT.JS', 'REACT', 'FASTIFY', 'FASTAPI', 'SUPABASE', 'POSTGRESQL', 'THREE.JS', 'MAPLIBRE GL', 'DOCKER', 'PLAYWRIGHT', 'AI AGENTS'];
-  const tapeStr = tapeItems.join(' / ') + ' / ';
+  const tapeStr = tapeItems.join(' / ') + ' /\u00A0';
   const size = 24, spacing = 3, adv = size * 0.6 + spacing;
   const period = Math.round(tapeStr.length * adv);
   const tapeText = (x) => mono(x, 681, tapeStr, { size, spacing, fill: C.ink, weight: 500 });
@@ -30,7 +30,7 @@ function banner() {
   if (hasPortrait && readFileSync(CONFIG.portrait).length > 300 * 1024) console.warn('WARNING: portrait is over 300 KB; resize it (about 600x700) so the banner stays light.');
   const portrait = hasPortrait
     ? `<clipPath id="arch"><path d="M1070 612 V382 A210 210 0 0 1 1490 382 V612 Z"/></clipPath>
-<image href="data:image/png;base64,${readFileSync(CONFIG.portrait).toString('base64')}" x="1070" y="150" width="420" height="462" preserveAspectRatio="xMidYMax meet" clip-path="url(#arch)"/>`
+<image href="data:image/png;base64,${readFileSync(CONFIG.portrait).toString('base64')}" x="1070" y="150" width="420" height="462" preserveAspectRatio="xMidYMax slice" clip-path="url(#arch)"/>`
     : `<text x="1280" y="528" font-family="${SERIF}" font-size="340" font-weight="700" font-style="italic" fill="${C.paper}" text-anchor="middle">C</text>`;
   const note = hasPortrait ? 'that’s me (probably)' : 'the C is for Chirayu';
 
@@ -91,16 +91,16 @@ ${portrait}
 
 /* ------------------------------------------------------- SECTION LABELS */
 function label(file, folio, plain, accent, right) {
-  const W = 1600, H = 140;
+  const W = 1600, H = 140, PAD = 32;
   const total = plain + ' ' + accent;
   const L = est(total, 84, 0.5);
-  const body = `
+  const body = `<g transform="translate(${PAD} 0)">
 ${mono(6, 38, folio, { size: 20, fill: C.ink500, spacing: 4 })}
 ${mono(W - 6, 38, right, { size: 20, fill: C.ink500, spacing: 4, anchor: 'end' })}
 <text x="2" y="108" font-family="${SERIF}" font-size="84" font-weight="700" fill="${C.ink}" textLength="${L}" lengthAdjust="spacingAndGlyphs">${esc(plain)} <tspan font-style="italic" fill="${C.cobalt}">${esc(accent)}</tspan></text>
 <line x1="0" x2="${W}" y1="128" y2="128" stroke="${C.ink}" stroke-width="3"/>
-<rect x="0" y="122" width="140" height="12" fill="${C.vermilion}"/>`;
-  out(file, svg(W, H, body, { title: `${plain} ${accent}` }));
+<rect x="0" y="122" width="140" height="12" fill="${C.vermilion}"/></g>`;
+  out(file, svg(W + PAD * 2, H, body, { title: `${plain} ${accent}`, bg: C.paper }));
 }
 
 /* --------------------------------------------------------- PROJECT CARDS */
@@ -167,7 +167,7 @@ ${mono(0, 24, title, { size: 20, fill: C.ink500, spacing: 3 })}
     });
     body += '</g>';
   });
-  out('toolbox.svg', svg(W, H, body, { title: 'The toolbox: languages, frontend, backend, data, AI and media, delivery', desc: groups.map(([t, it]) => t + ': ' + it.join(', ')).join('. ') }));
+  out('toolbox.svg', svg(W + 64, H + 56, `<g transform="translate(32 28)">${body}</g>`, { title: 'The toolbox: languages, frontend, backend, data, AI and media, delivery', desc: groups.map(([t, it]) => t + ': ' + it.join(', ')).join('. '), bg: C.paper }));
 }
 
 /* ------------------------------------------------------- OFF THE CLOCK */
@@ -190,7 +190,7 @@ ${mono(c.x + 28, y + 62, c.label, { size: 18, fill: C.ink500 })}
 ${c.lines.map((t, i) => `<text x="${c.x + 28}" y="${y + 182 + i * 36}" font-family="${SERIF}" font-size="25" fill="${C.ink700}">${esc(t)}</text>`).join('')}
 </g>`;
   }
-  out('clippings.svg', svg(W, H, body, { title: 'Off the clock: freelance AI visual work, writing, and time outdoors', desc: clips.map((c) => `${c.title}: ${c.lines.join(' ')}`).join(' ') }));
+  out('clippings.svg', svg(W, H, body, { title: 'Off the clock: freelance AI visual work, writing, and time outdoors', desc: clips.map((c) => `${c.title}: ${c.lines.join(' ')}`).join(' '), bg: C.paper }));
 }
 
 /* --------------------------------------------------------------- TICKET */
@@ -206,7 +206,7 @@ ${mono(130, 92, 'ADMIT ONE / CONVERSATIONS WELCOME', { size: 20, fill: C.ink500,
 <text x="130" y="272" font-family="${SERIF}" font-size="31" fill="${C.ink700}">Hiring, collaborating or just curious: I read every message.</text>
 <line x1="1000" x2="1000" y1="44" y2="302" stroke="${C.ink}" stroke-width="3" stroke-dasharray="3 12" stroke-linecap="round"/>
 ${rows.map(([k, v], i) => `${mono(1040, 82 + i * 62, k, { size: 17, fill: C.ink500, spacing: 3 })}${mono(1040, 82 + i * 62 + 28, v, { size: 24, spacing: 0, fill: C.ink, weight: 500 })}`).join('\n')}`;
-  out('ticket.svg', svg(W, H, body, { title: 'Contact ticket: say hello', desc: rows.map(([k, v]) => `${k}: ${v}`).join('. ') }));
+  out('ticket.svg', svg(W, H, body, { title: 'Contact ticket: say hello', desc: rows.map(([k, v]) => `${k}: ${v}`).join('. '), bg: C.paper }));
 }
 
 /* -------------------------------------------------------------- BUTTONS */
@@ -249,7 +249,7 @@ card('card-aaragate.svg', { n: '06', cat: 'AI GATE PREPARATION', name: 'AARAGATE
 toolbox();
 clippings();
 ticket();
-button('btn-site.svg', 'PORTFOLIO ↗', { fill: C.ink, color: C.paper });
+button('btn-site.svg', 'PORTFOLIO ↗', { fill: C.ink, color: C.paper, stroke: C.paper });
 button('btn-github.svg', 'GITHUB ↗', { fill: C.paper50, color: C.ink });
 button('btn-linkedin.svg', 'LINKEDIN ↗', { fill: C.paper50, color: C.ink });
 button('btn-email.svg', 'EMAIL ME ↗', { fill: C.hl, color: C.ink });
